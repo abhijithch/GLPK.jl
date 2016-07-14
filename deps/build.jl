@@ -1,7 +1,6 @@
 using BinDeps
 
 using Compat
-using Compat: unsafe_string, is_apple
 
 @BinDeps.setup
 
